@@ -1,7 +1,6 @@
 # ContactManager
 develop a contact manager
 
-SIT305 - Assessment 2: Mobile App Project
 -------------------------------------------------------
 Individual work
 ----------------
