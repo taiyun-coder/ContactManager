@@ -1,0 +1,25 @@
+Week 9
+
+1.search for concept of the app
+2.choosing Contact manger app
+3.create buttons, adjust layout
+4.create splash screen
+---------------------------------
+Week 10
+
+1.Design tabs manu
+2.Create the add contact page
+3.in process of creating a Database handler class
+---------------------------------
+Week 11
+1.create save data list
+2.Research on data manipulation(obtain & store data in database)
+3.create adaptor for all list
+
+---------------------------------
+Week 12
+1.create the "add image to contact" function
+2.create the update and delete option for contact list
+3.finalising the application
+
+
